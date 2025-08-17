@@ -1,0 +1,7 @@
+deepface 
+streamlit 
+opencv-python-headless 
+scikit-learn 
+matplotlib
+tf-keras
+watchdog
